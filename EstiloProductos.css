@@ -1,0 +1,11 @@
+.contador{
+    width: 100%;
+    background-color: lightgray;
+}
+.caja{
+    width: 60%;
+    height: 60%;
+    border: solid 1px black;
+    text-align: center;
+    line-height: 60px;
+}
